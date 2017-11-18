@@ -25,7 +25,7 @@ SECRET_KEY = '@b#o5m()1=h9g79=jtw@-_v_k26dthxf*nb-g108q_zrm+=x12'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["boyar.pythonanywhere.com"]
+ALLOWED_HOSTS = ["127.0.0.1",'boyar.pythonanywhere.com']
 
 
 # Application definition
